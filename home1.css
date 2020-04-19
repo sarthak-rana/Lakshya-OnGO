@@ -1,0 +1,76 @@
+#Top_Design{
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+.mid{
+  	margin: 0px auto;
+}
+
+.jumbotron{
+	
+	background-image: url(https://www.nickkembel.com/wp-content/uploads/2018/04/best-mount-fuji-views-header.jpg);
+	background-size: cover;
+	margin-top: 50px;
+}
+
+.color-btn{
+	background-color: #a6a167;
+}
+
+#Main_Line{
+	text-align: right;
+	font-size: 3em;
+}
+
+.container{
+	padding: 10px;
+}
+
+hr{
+	background-color: dimgrey;
+}
+
+body{
+	background-color: #f7f6e9;
+}
+
+.marg{
+	height: 100%;
+}
+
+.card{
+	height: 90%;
+}
+
+#Blog_Topic{
+	font-family: 'Big Shoulders Display', cursive;
+	text-align: center;
+	font-size: 50px;
+}
+
+#Hr{
+	background-color: blue;
+	width: 30%;
+
+}
+
+#Blog_Content{
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+#blog1{
+	margin: 80px;
+}
+
+.card{
+	background-color: #f2daed;
+}
+
+
+
+.navbar{
+	position: fixed;
+	top: 0px;
+	width: 100%;
+}
